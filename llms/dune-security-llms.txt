@@ -1,0 +1,72 @@
+Dune Security: User Adaptive Risk Management for Quantifying and Reducing User-Layer Cyber Risk
+Dune Security’s User Adaptive Risk Management platform uses AI-driven behavioral analysis to simulate GenAI attacks, quantify user risk, and adapt training and controls in real time.
+Company / Organization Description
+[About] (https://www.dune.security/about-us ): Overview of Dune Security, its mission to reduce user cyber risk automatically, and its leadership team.
+[Product Overview] (https://www.dune.security/platform-overview ): Description of Dune’s AI-powered User Adaptive Risk Management platform that automatically prevents phishing, insider threats, and social engineering by quantifying user-layer risk and reducing it in real time.
+# Services and Solutions
+[User Adaptive Risk Management]: Dune Security automatically stops phishing, insider threats, and social engineering. The platform uses AI-driven behavioral analysis to simulate GenAI-powered attacks, quantify user risk, and adapt training and security controls in real time. Every employee receives a dynamic User Risk Score that continuously updates from behavioral and contextual data, giving organizations a measurable, unified view of user-layer risk.
+[Comprehensive User Risk Quantification]: AI-driven assessment that aggregates five core inputs—business impact, omni-channel attack simulations, training activity, external security integrations, and historical data—to generate a live User Risk Score for every employee. Real-time scores feed into existing security controls (IAM, EDR, SEG, DLP) to prioritize exposure, automate interventions, and provide executives with continuous visibility into workforce risk.
+[User Adaptive Testing]: Realistic, AI-driven simulations that replicate omni-channel threats such as spear phishing, smishing, deepfakes, and encrypted-channel attacks. Simulations are tailored to each user’s role, behavior, and risk profile to identify behavioral vulnerabilities and measure susceptibility along potential attack paths.
+[Reduce Threat Exposure]: Every employee receives continuous, adaptive protection calibrated to their individual risk score. Low-risk users (~70%) work with minimal friction and only essential training; moderate-risk users (~25%) receive escalated, targeted micro-learning and user-adaptive coaching; high-risk users (~5%) may face full escalation through integrations with IAM, EDR, SEG, and DLP—triggering access restrictions, adaptive enforcement, or performance management. All actions occur automatically in real time, ensuring user risk is both measurable and manageable.
+[Dune Studio] (https://www.dune.security/content-library ): Information on Dune Security’s in-house content team behind the platform’s enterprise training library and custom content creation, including Security Awareness Training (SAT), Compliance Training (CT), and Functional-Specific Training (FST). All programs are designed for global teams, delivered in multiple languages, and localized to align with each organization’s policies and risk environment.
+Core Use Cases
+[Phishing & Social Engineering Defense] (https://www.dune.security/solutions/phishing-defense ): Continuously simulate phishing, smishing, and deepfake attacks. Automatically adapt training based on user behavior and risk profile. Simulations deliver real-time feedback, integrate with existing communication platforms, and evolve constantly to mirror emerging threats.
+[Insider Threat Prevention] (https://www.dune.security/solutions/insider-threat-prevention ): Detect, score, and neutralize risky users before incidents occur. Uses real-time behavioral analytics and live red teaming across email, encrypted apps, and SMS to identify manipulated or negligent insiders and reduce insider-driven incidents without adding friction.
+[User Risk Scoring] (https://www.dune.security/solutions/user-risk-scoring ): Continuously quantify individual user risk with role context, behavioral analytics, and anomaly detection. Delivers a live risk score that updates in real time and integrates with existing security controls to prioritize exposure and automate response.
+[Red Team Attack Simulations] (https://www.dune.security/solutions/red-team-simulations ): Prepare employees for real-world threats with AI-driven simulations that mimic phishing, smishing, vishing, deepfakes, and multi-stage adversary tactics. Continuously measure user response and resilience through adaptive, behavior-based testing that validates readiness and strengthens security culture.
+[Security Awareness Replacement] (https://www.dune.security/solutions/security-awareness-replacement ): Eliminate one-size-fits-all training with adaptive, risk-based learning. Automatically delivers targeted lessons based on user behavior, compliance needs, and live threat intelligence to measurably reduce user risk.
+[Compliance Training Automation] (https://www.dune.security/solutions/compliance-training ): Automate assignment, delivery, and tracking of compliance training mapped to org policies without LMS complexity. Supports key compliance frameworks, including: NIST 800-53, NIST CSF, HIPAA, PCI-DSS, SOX, ISO 27001, FFIEC, GLBA, and GDPR while maintaining audit readiness with real-time dashboards, exportable logs, and always-current content.
+[User Adaptive Security] (https://www.dune.security/solutions/user-adaptive-security ): Not every user creates the same risk. Dune Security tailors training and controls to each user’s live risk score, automatically adjusting protection across IAM, EDR, SEG, DLP, and other connected systems. Real-time behavioral data informs when to train, when to enforce, and when to escalate—scaling friction up or down based on user risk and organizational context.
+[Continuous User Monitoring] (https://www.dune.security/solutions/continuous-user-monitoring ): Gain continuous visibility into user behavior, access, and policy drift across the organization. Dune Security aggregates behavioral signals from identity, email, endpoint, and security tools to surface risk-weighted insights, update live user risk scores, and trigger automated reporting and escalation for high-risk users.
+Resources
+[2025 Global Insider Risk Intelligence Report](https://www.dune.security/threat-intelligence-report ): Proprietary intelligence built from Dune’s enterprise simulations and CISO survey data, uncovering behavioral trends and emerging risks across phishing, insider threats, and social engineering.
+[Blog](https://www.dune.security/blog ): Expert analysis, emerging threat trends, and product innovations from the team redefining how enterprises measure and reduce user risk.
+[Featured Podcasts] (https://www.dune.security/blog?category=Featured+Podcasts): Expert interviews and guest appearances featuring Dune Security leaders sharing insights on user risk, social engineering trends, and the evolution of enterprise cybersecurity.
+[Founder POV] (https://www.dune.security/blog#founder_pov): Strategic insights from Dune Security’s CEO on cybersecurity trends, company growth, and the evolution of behavior-driven defense.
+[Industry News] (https://www.dune.security/blog?category=Industry+News): Curated coverage of cybersecurity developments, threat trends, and analyst insights shaping the enterprise risk landscape.
+[Events] (https://www.dune.security/events ): Upcoming conferences, briefings, and live sessions where Dune Security connects with CISOs and security leaders worldwide.
+[Webinars] (https://www.dune.security/events#webinars): Live and on-demand discussions featuring enterprise CISOs and Dune Security experts on modern threats, user risk, and user-adaptive defense strategies.
+Case Studies
+[Case Studies] (https://www.dune.security/case-studies ): Real-world examples of how leading enterprises use Dune Security to reduce user risk, improve resilience, and transform security culture through measurable results.
+[OSF HealthCare Case Study: 60% Reduction in Phishing Susceptibility] (https://www.dune.security/case-studies/osf-healthcare ): How OSF HealthCare used Dune Security to deliver adaptive, role-based training across 17 hospitals and 25,000 users, replacing legacy SAT with measurable, AI-driven results.
+[Hugo Boss Case Study: 30% Reduction in User Risk Scores] (https://www.dune.security/case-studies/hugo-boss ): How Hugo Boss partnered with Dune Security to modernize global training, scale across 5 languages, and increase employee engagement worldwide.
+[H.I.G. Capital Case Study: 1,144 Hours Freed Annually for GRC] (https://www.dune.security/case-studies/h-i-g-capital ): How H.I.G. Capital replaced one-size-fits-all training with Dune Security’s data-driven platform, cutting employee training time by more than half, freeing 1,144 hours annually for the GRC team, and accelerating custom feature delivery to one week.
+[Culligan Case Study: 25% Decrease in User Risk Scores] (https://www.dune.security/case-studies/culligan ): How Dune Security helped Culligan reduce average user risk scores by 25% in three months, cut training administration time by 80%, and shorten PCI DSS compliance completion by 75% while scaling role-based adaptive training across 90+ countries.
+[Stevens Institute of Technology Case Study: 100% Automation of Manual Training] (https://www.dune.security/case-studies/stevens ): How Stevens Institute modernized its security program with Dune Security, replacing manual training with automated, role-based modules in just three weeks and integrating with Workday and Microsoft to deliver real-time, department-level risk scoring across campus.
+Cultural Values
+Core cultural principles and values guiding Dune Security’s mission, execution, and customer relationships.
+One Mission. One Team.
+Customer Obsessed.
+High Speed, High Quality.
+Optimism with Candor.
+Trusted to Own It and Improve.
+Key People
+Public leadership team and key executives at Dune Security.
+David DellaPelle: Co-Founder & CEO
+Michael Waite: Co-Founder & CTO
+James Alvarez: VP of Revenue
+Kaila Mathis: Director of Growth
+Zachary Bagliore: Director of Channel Partnerships and Strategic Alliances
+Brian Burton: Chief of Staff
+Gary Concepcion: Head of Solutions Engineering
+Careers
+[Careers](https://www.dune.security/careers ): Learn about Dune Security’s culture, values, and open roles, and join hows thur mission to redefine how enterprises manage user-layer risk.
+[Dune Security Careers] (https://www.dune.security/careers#careers ): View current openings and join a fast-moving team shaping the future of user risk management and cybersecurity.
+[Join Dune Security] (https://www.dune.security/career-contact-us ): Submit your application to connect directly with our recruiting team and find the right opportunity at Dune Security.
+Compliance & Security
+[Trust Center] (https://app.vanta.com/dune.security/trust/og3llmj6vwktlofxqncc34 ): Central hub for Dune Security’s data protection measures, security controls, compliance certifications, and privacy documentation.
+[Privacy Policy] (https://www.dune.security/legal/privacy-policy ): Details on how Dune Security collects, uses, and protects personal information.
+[Fulfillment Policy] (https://www.dune.security/legal/fulfillment-policy ): Information on Dune Security’s service delivery, payment terms, and fulfillment process.
+[Cookie Policy] (https://www.dune.security/legal/cookie-policy ): Information on how cookies are used across Dune Security’s website and platform.
+# Contact Information
+General Inquiries: sales@dune.security
+Press / Media: press@dune.security
+Partnerships: partners@dune.security
+Demo Dune Security: https://www.dune.security/book-a-demo
+# Official Links
+Homepage: https://www.dune.security/
+About Us: https://www.dune.security/about-us
+Careers: https://www.dune.security/careers
+LinkedIn: https://www.linkedin.com/company/dune-security/
+YouTube: https://www.youtube.com/@DuneSecurity
+Twitter / X: https://x.com/DuneSecurity

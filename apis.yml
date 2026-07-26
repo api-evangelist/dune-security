@@ -1,9 +1,31 @@
 aid: dune-security
 name: Dune Security
-description: 'Dune Security is a company surfaced as a portfolio company of craft-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Dune Security is a cybersecurity company whose User Adaptive Risk Management
+  platform uses AI-driven behavioral analysis to quantify and reduce user-layer
+  cyber risk. It runs omni-channel attack simulations (email/spear phishing,
+  smishing, vishing, deepfakes, and encrypted-app lures) tailored to each
+  employee's role and behavior, generates a live User Risk Score from five inputs
+  (business impact, simulations, training activity, external security
+  integrations, and historical data), and automatically adapts micro-training and
+  security controls in real time. The platform integrates with IAM, EDR, SEG,
+  DLP, and HRIS systems to escalate or restrict access for high-risk users, and
+  ships an in-house training library (Security Awareness, Compliance, and
+  Functional-Specific Training) covering NIST 800-53, NIST CSF, HIPAA, PCI DSS,
+  SOX, ISO 27001, FFIEC, GLBA, and GDPR. Dune Security is backed by Craft Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/dune-security/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67f91a416272c7432bc1ac28/6808deaf18e9d80105f7198c_Open%20Graph.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +34,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Security
+- Cybersecurity
+- Human Risk Management
+- Insider Threat
+- Phishing Defense
+- Social Engineering
+- Security Awareness Training
+- Behavioral Analytics
+- User Risk Scoring
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,26 @@ maintainers:
 common:
 - type: Website
   url: https://dune.security
+- type: About
+  url: https://dune.security/about-us
+- type: Blog
+  url: https://dune.security/blog
+- type: Login
+  url: https://app.dune.security/
+- type: PrivacyPolicy
+  url: https://dune.security/legal/privacy-policy
+- type: TrustCenter
+  url: https://app.vanta.com/dune.security/trust
+- type: Compliance
+  url: https://app.vanta.com/dune.security/trust
+- type: DomainSecurity
+  url: security/dune-security-domain-security.yml
+- type: LLMsTxt
+  url: llms/dune-security-llms.txt
+- type: WellKnown
+  url: well-known/dune-security-well-known.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
