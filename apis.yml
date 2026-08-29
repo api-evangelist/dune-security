@@ -14,6 +14,17 @@ description: >-
   Functional-Specific Training) covering NIST 800-53, NIST CSF, HIPAA, PCI DSS,
   SOX, ISO 27001, FFIEC, GLBA, and GDPR. Dune Security is backed by Craft Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/dune-security/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
