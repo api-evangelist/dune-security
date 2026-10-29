@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dune Security is a company surfaced as a portfolio company of craft-ventures and added to the API Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting the enrichment pipeline.
+Dune Security is a cybersecurity company whose User Adaptive Risk Management platform uses AI-driven behavioral analysis to quantify and reduce user-layer cyber risk. It runs omni-channel attack simulations (email/spear phishing, smishing, vishing, deepfakes, and encrypted-app lures) tailored to each employee's role and behavior, generates a live User Risk Score from five inputs (business impact, simulations, training activity, external security integrations, and historical data), and automatically adapts micro-training and security controls in real time. The platform integrates with IAM, EDR, SEG, DLP, and HRIS systems to escalate or restrict access for high-risk users, and ships an in-house training library (Security Awareness, Compliance, and Functional-Specific Training) covering NIST 800-53, NIST CSF, HIPAA, PCI DSS, SOX, ISO 27001, FFIEC, GLBA, and GDPR. Dune Security is backed by Craft Ventures.
 
-Backed by: craft-ventures — https://dune.security
+**Areas:** Company · Security · Cybersecurity · Human Risk Management · Insider Threat · Phishing Defense · Social Engineering · Security Awareness Training · Behavioral Analytics · User Risk Scoring
+
+## Dune Security on APIs.io
+
+Everything profiled for Dune Security is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dune-security/](https://apis.io/providers/dune-security/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dune Security Domain Security](https://apis.io/security/dune-security/dune-security-domain-security/)
+- [Dune Security Trust Center](https://apis.io/security/dune-security/dune-security-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dune.security)
+- [Blog](https://dune.security/blog)
+- [Compliance](https://app.vanta.com/dune.security/trust)
+- [Trust centre](https://app.vanta.com/dune.security/trust)
+- [Privacy policy](https://dune.security/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 17.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dune-security/](https://apis.io/providers/dune-security/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dune Security: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dune-security/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
